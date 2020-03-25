@@ -1,0 +1,83 @@
+.main{
+    background-color: rgb(66, 10, 2);
+    margin-bottom: 10px;
+}
+
+#logo{
+    width: 170px;
+    height: 70px;
+    margin-left: 30px;
+}
+
+.r-right{
+    margin:20px 50px;
+    font-weight: bold;
+    padding: -10px;
+}
+
+#orange{
+    color: rgb(196, 48, 22);
+}
+
+#orangeb{
+    border: 2px solid rgb(196, 48, 22);
+    color: rgb(196, 48, 22);
+}
+
+
+
+
+
+
+
+.searchbtn{
+    background-color: rgb(40, 142, 189);
+    color: white;  
+}
+
+.thinkimg{
+    width:80px;
+    height: 80px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.thinkright{
+    margin-top: 20px;
+}
+
+.sleekimg{
+    width:100px;
+    height: 40px;
+    margin-top: 50px;
+}
+
+.text1{
+    margin-bottom: 5px;
+}
+
+
+
+
+
+
+
+.foot{
+    margin-top: 500px;
+    background-color: rgb(66, 10, 2);
+    color: white;
+    height: 100px;
+}
+
+.footleft{
+    padding: 20px 0px 0px 150px;
+}
+
+.footright{  
+    padding: -20px;
+    margin-right: 20px;
+ } 
+
+  .social{
+     margin-left: 600px;
+ }
